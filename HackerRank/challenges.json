@@ -1,0 +1,3188 @@
+{
+  "tracks": [
+    {
+      "title": "Algorithms",
+      "name": "algorithms",
+      "chapters": [
+        {
+          "title": "Warmup",
+          "name": "warmup",
+          "challenges": [
+            {
+              "title": "Solve Me First",
+              "name": "solve-me-first",
+              "difficulty": "Easy",
+              "point": 1,
+              "rate": 0.9804826001520099
+            },
+            {
+              "title": "Simple Array Sum",
+              "name": "simple-array-sum",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9472439221864811
+            },
+            {
+              "title": "Compare the Triplets",
+              "name": "compare-the-triplets",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9394455440239251
+            },
+            {
+              "title": "A Very Big Sum",
+              "name": "a-very-big-sum",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9862185898146151
+            },
+            {
+              "title": "Diagonal Difference",
+              "name": "diagonal-difference",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9590039149382631
+            },
+            {
+              "title": "Plus Minus",
+              "name": "plus-minus",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9811864250680451
+            },
+            {
+              "title": "Staircase",
+              "name": "staircase",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9829126765867015
+            },
+            {
+              "title": "Mini-Max Sum",
+              "name": "mini-max-sum",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9255762969266134
+            },
+            {
+              "title": "Birthday Cake Candles",
+              "name": "birthday-cake-candles",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9595864243767465
+            },
+            {
+              "title": "Time Conversion",
+              "name": "time-conversion",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.8960341429010615
+            }
+          ]
+        },
+        {
+          "title": "Implementation",
+          "name": "implementation",
+          "challenges": [
+            {
+              "title": "Grading Students",
+              "name": "grading",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9674782913097171
+            },
+            {
+              "title": "Apple and Orange",
+              "name": "apple-and-orange",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9530707606291117
+            },
+            {
+              "title": "Kangaroo",
+              "name": "kangaroo",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.8836428480448351
+            },
+            {
+              "title": "Between Two Sets",
+              "name": "between-two-sets",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.8828664467473509
+            },
+            {
+              "title": "Breaking the Records",
+              "name": "breaking-best-and-worst-records",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9828213401499781
+            },
+            {
+              "title": "Birthday Chocolate",
+              "name": "the-birthday-bar",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.934409687184662
+            },
+            {
+              "title": "Divisible Sum Pairs",
+              "name": "divisible-sum-pairs",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9762719439129646
+            },
+            {
+              "title": "Migratory Birds",
+              "name": "migratory-birds",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.905336175899704
+            },
+            {
+              "title": "Day of the Programmer",
+              "name": "day-of-the-programmer",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.8850650143458886
+            },
+            {
+              "title": "Bon App\u00e9tit",
+              "name": "bon-appetit",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9769413880119737
+            },
+            {
+              "title": "Sock Merchant",
+              "name": "sock-merchant",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9412661130218382
+            },
+            {
+              "title": "Drawing Book ",
+              "name": "drawing-book",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.8999907626935986
+            },
+            {
+              "title": "Counting Valleys",
+              "name": "counting-valleys",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.9433747094170797
+            },
+            {
+              "title": "Electronics Shop",
+              "name": "electronics-shop",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.9145105010204754
+            },
+            {
+              "title": "Cats and a Mouse",
+              "name": "cats-and-a-mouse",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.9768833145286138
+            },
+            {
+              "title": "Forming a Magic Square",
+              "name": "magic-square-forming",
+              "difficulty": "Medium",
+              "point": 20,
+              "rate": 0.7375524407297799
+            },
+            {
+              "title": "Picking Numbers",
+              "name": "picking-numbers",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.8900867623056439
+            },
+            {
+              "title": "Climbing the Leaderboard",
+              "name": "climbing-the-leaderboard",
+              "difficulty": "Medium",
+              "point": 20,
+              "rate": 0.5757728528504306
+            },
+            {
+              "title": "The Hurdle Race",
+              "name": "the-hurdle-race",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.9846624463610486
+            },
+            {
+              "title": "Designer PDF Viewer",
+              "name": "designer-pdf-viewer",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9797695228129486
+            },
+            {
+              "title": "Utopian Tree",
+              "name": "utopian-tree",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9710960864018346
+            },
+            {
+              "title": "Angry Professor",
+              "name": "angry-professor",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9534252743509961
+            },
+            {
+              "title": "Beautiful Days at the Movies",
+              "name": "beautiful-days-at-the-movies",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.9576350011407311
+            },
+            {
+              "title": "Viral Advertising",
+              "name": "strange-advertising",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.9840679859002548
+            },
+            {
+              "title": "Save the Prisoner!",
+              "name": "save-the-prisoner",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.7768442278608637
+            },
+            {
+              "title": "Circular Array Rotation",
+              "name": "circular-array-rotation",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.7914340764216516
+            },
+            {
+              "title": "Sequence Equation",
+              "name": "permutation-equation",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9538451962279418
+            },
+            {
+              "title": "Jumping on the Clouds: Revisited",
+              "name": "jumping-on-the-clouds-revisited",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.9653834281430524
+            },
+            {
+              "title": "Find Digits",
+              "name": "find-digits",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.959277156579074
+            },
+            {
+              "title": "Extra Long Factorials",
+              "name": "extra-long-factorials",
+              "difficulty": "Medium",
+              "point": 20,
+              "rate": 0.9486316711630546
+            },
+            {
+              "title": "Append and Delete",
+              "name": "append-and-delete",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.6899719007765054
+            },
+            {
+              "title": "Sherlock and Squares",
+              "name": "sherlock-and-squares",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.8399068101146192
+            },
+            {
+              "title": "Library Fine",
+              "name": "library-fine",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.8653281225410481
+            },
+            {
+              "title": "Cut the sticks",
+              "name": "cut-the-sticks",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.9431924282779837
+            },
+            {
+              "title": "Non-Divisible Subset",
+              "name": "non-divisible-subset",
+              "difficulty": "Medium",
+              "point": 20,
+              "rate": 0.5647722017924383
+            },
+            {
+              "title": "Repeated String",
+              "name": "repeated-string",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9087841621863799
+            },
+            {
+              "title": "Jumping on the Clouds",
+              "name": "jumping-on-the-clouds",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9446615601062999
+            },
+            {
+              "title": "Equalize the Array",
+              "name": "equality-in-a-array",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9393665379539567
+            },
+            {
+              "title": "Queen's Attack II",
+              "name": "queens-attack-2",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.6357401306907167
+            },
+            {
+              "title": "ACM ICPC Team",
+              "name": "acm-icpc-team",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.8820400354626475
+            },
+            {
+              "title": "Taum and B'day",
+              "name": "taum-and-bday",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.9026597788498485
+            },
+            {
+              "title": "Organizing Containers of Balls",
+              "name": "organizing-containers-of-balls",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.769087656529517
+            },
+            {
+              "title": "Encryption",
+              "name": "encryption",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.9147086102952543
+            },
+            {
+              "title": "Bigger is Greater",
+              "name": "bigger-is-greater",
+              "difficulty": "Medium",
+              "point": 35,
+              "rate": 0.7762423714036617
+            },
+            {
+              "title": "Modified Kaprekar Numbers",
+              "name": "kaprekar-numbers",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.8711756617394294
+            },
+            {
+              "title": "Beautiful Triplets",
+              "name": "beautiful-triplets",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9044815300956309
+            },
+            {
+              "title": "Minimum Distances",
+              "name": "minimum-distances",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9496297716325993
+            },
+            {
+              "title": "Halloween Sale",
+              "name": "halloween-sale",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.8792650918635171
+            },
+            {
+              "title": "The Time in Words",
+              "name": "the-time-in-words",
+              "difficulty": "Medium",
+              "point": 25,
+              "rate": 0.9323235426167915
+            },
+            {
+              "title": "Chocolate Feast ",
+              "name": "chocolate-feast",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.8996876905274421
+            },
+            {
+              "title": "Service Lane",
+              "name": "service-lane",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9725795743508161
+            },
+            {
+              "title": "Lisa's Workbook",
+              "name": "lisa-workbook",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.903751249879044
+            },
+            {
+              "title": "Flatland Space Stations",
+              "name": "flatland-space-stations",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.8346880951275024
+            },
+            {
+              "title": "Fair Rations",
+              "name": "fair-rations",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.917875608654184
+            },
+            {
+              "title": "Cavity Map",
+              "name": "cavity-map",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9053713846449505
+            },
+            {
+              "title": "Manasa and Stones",
+              "name": "manasa-and-stones",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9003268695613764
+            },
+            {
+              "title": "The Grid Search",
+              "name": "the-grid-search",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.7488902495025256
+            },
+            {
+              "title": "Happy Ladybugs",
+              "name": "happy-ladybugs",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.8187873220027561
+            },
+            {
+              "title": "Strange Counter",
+              "name": "strange-code",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.7779796511627907
+            },
+            {
+              "title": "3D Surface Area",
+              "name": "3d-surface-area",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.92773851590106
+            },
+            {
+              "title": "Absolute Permutation",
+              "name": "absolute-permutation",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.7297725024727992
+            },
+            {
+              "title": "The Bomberman Game",
+              "name": "bomber-man",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.6296332905011367
+            },
+            {
+              "title": "Ema's Supercomputer",
+              "name": "two-pluses",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.650103519668737
+            },
+            {
+              "title": "Larry's Array",
+              "name": "larrys-array",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.7680837377931116
+            },
+            {
+              "title": "Almost Sorted",
+              "name": "almost-sorted",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.7210682492581603
+            },
+            {
+              "title": "Matrix Layer Rotation ",
+              "name": "matrix-rotation-algo",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.7528749794644324
+            }
+          ]
+        },
+        {
+          "title": "Strings",
+          "name": "strings",
+          "challenges": [
+            {
+              "title": "Super Reduced String",
+              "name": "reduced-string",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.87488833254293
+            },
+            {
+              "title": "CamelCase",
+              "name": "camelcase",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.9802034053578202
+            },
+            {
+              "title": "Strong Password",
+              "name": "strong-password",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.848738025458204
+            },
+            {
+              "title": "Two Characters",
+              "name": "two-characters",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.7374920634920635
+            },
+            {
+              "title": "Caesar Cipher",
+              "name": "caesar-cipher-1",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.8510540142243865
+            },
+            {
+              "title": "Mars Exploration",
+              "name": "mars-exploration",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.94420895696913
+            },
+            {
+              "title": "HackerRank in a String!",
+              "name": "hackerrank-in-a-string",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9117015443662615
+            },
+            {
+              "title": "Pangrams",
+              "name": "pangrams",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.943875631095362
+            },
+            {
+              "title": "Weighted Uniform Strings",
+              "name": "weighted-uniform-string",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.7483654855113407
+            },
+            {
+              "title": "Separate the Numbers",
+              "name": "separate-the-numbers",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.8786648313833448
+            },
+            {
+              "title": "Funny String",
+              "name": "funny-string",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.9388735769922109
+            },
+            {
+              "title": "Gemstones",
+              "name": "gem-stones",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9306596802364638
+            },
+            {
+              "title": "Alternating Characters ",
+              "name": "alternating-characters",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.963483486846403
+            },
+            {
+              "title": "Beautiful Binary String",
+              "name": "beautiful-binary-string",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9500256673511294
+            },
+            {
+              "title": "The Love-Letter Mystery",
+              "name": "the-love-letter-mystery",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9607395353289483
+            },
+            {
+              "title": "Determining DNA Health",
+              "name": "determining-dna-health",
+              "difficulty": "Hard",
+              "point": 50,
+              "rate": 0.10323801513877208
+            },
+            {
+              "title": "Palindrome Index",
+              "name": "palindrome-index",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.6638598634410244
+            },
+            {
+              "title": "Anagram",
+              "name": "anagram",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.896927265655387
+            },
+            {
+              "title": "Making Anagrams",
+              "name": "making-anagrams",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.921648064496526
+            },
+            {
+              "title": "Game of Thrones - I",
+              "name": "game-of-thrones",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9351162164587633
+            },
+            {
+              "title": "Two Strings",
+              "name": "two-strings",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.8623511450381679
+            },
+            {
+              "title": "String Construction ",
+              "name": "string-construction",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.944091255857885
+            },
+            {
+              "title": "Sherlock and the Valid String",
+              "name": "sherlock-and-valid-string",
+              "difficulty": "Medium",
+              "point": 35,
+              "rate": 0.6418085106382979
+            },
+            {
+              "title": "Highest Value Palindrome",
+              "name": "richie-rich",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.5217328658565871
+            },
+            {
+              "title": "Maximum Palindromes",
+              "name": "maximum-palindromes",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.31408629441624364
+            },
+            {
+              "title": "Sherlock and Anagrams",
+              "name": "sherlock-and-anagrams",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.8462997481932045
+            },
+            {
+              "title": "Common Child",
+              "name": "common-child",
+              "difficulty": "Medium",
+              "point": 60,
+              "rate": 0.5911945369067637
+            },
+            {
+              "title": "Bear and Steady Gene",
+              "name": "bear-and-steady-gene",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.6034724384926814
+            },
+            {
+              "title": "Morgan and a String",
+              "name": "morgan-and-a-string",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.25194107829620493
+            },
+            {
+              "title": "Count Strings",
+              "name": "count-strings",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.660541586073501
+            },
+            {
+              "title": "String Function Calculation",
+              "name": "string-function-calculation",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.2917620137299771
+            },
+            {
+              "title": "Build a Palindrome",
+              "name": "challenging-palindromes",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.2252989301447451
+            },
+            {
+              "title": "Build a String",
+              "name": "build-a-string",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.17183462532299743
+            },
+            {
+              "title": "Gridland Provinces",
+              "name": "gridland-provinces",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.3323170731707317
+            },
+            {
+              "title": "Cards Permutation",
+              "name": "cards-permutation",
+              "difficulty": "Expert",
+              "point": 85,
+              "rate": 0.3087557603686636
+            },
+            {
+              "title": "Ashton and String",
+              "name": "ashton-and-string",
+              "difficulty": "Advanced",
+              "point": 100,
+              "rate": 0.3193637197919853
+            },
+            {
+              "title": "String Similarity",
+              "name": "string-similarity",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.20199256296919946
+            },
+            {
+              "title": "Super Functional Strings",
+              "name": "super-functional-strings",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.2037037037037037
+            },
+            {
+              "title": "Circular Palindromes",
+              "name": "circular-palindromes",
+              "difficulty": "Advanced",
+              "point": 120,
+              "rate": 0.2037037037037037
+            },
+            {
+              "title": "Similar Strings",
+              "name": "similar-strings",
+              "difficulty": "Advanced",
+              "point": 85,
+              "rate": 0.13921901528013583
+            },
+            {
+              "title": "Save Humanity",
+              "name": "save-humanity",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.12614347616754934
+            },
+            {
+              "title": "Find Strings",
+              "name": "find-strings",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.19943759463551805
+            },
+            {
+              "title": "Palindromic Border",
+              "name": "palindromic-border",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.27944111776447106
+            },
+            {
+              "title": "Two Two",
+              "name": "two-two",
+              "difficulty": "Advanced",
+              "point": 150,
+              "rate": 0.32740348221044663
+            },
+            {
+              "title": "Two Strings Game",
+              "name": "two-strings-game",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.448512585812357
+            },
+            {
+              "title": "Letter Islands",
+              "name": "letter-islands",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.27297297297297296
+            },
+            {
+              "title": "Pseudo-Isomorphic Substrings",
+              "name": "pseudo-isomorphic-substrings",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.5035211267605634
+            },
+            {
+              "title": "How Many Substrings?",
+              "name": "how-many-substrings",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.0467706013363029
+            }
+          ]
+        },
+        {
+          "title": "Sorting",
+          "name": "arrays-and-sorting",
+          "challenges": [
+            {
+              "title": "Big Sorting",
+              "name": "big-sorting",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.6383328519695186
+            },
+            {
+              "title": "Intro to Tutorial Challenges",
+              "name": "tutorial-intro",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9810204194653439
+            },
+            {
+              "title": "Insertion Sort - Part 1",
+              "name": "insertionsort1",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.8682706070917366
+            },
+            {
+              "title": "Insertion Sort - Part 2",
+              "name": "insertionsort2",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9687716455933975
+            },
+            {
+              "title": "Correctness and the Loop Invariant",
+              "name": "correctness-invariant",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9856108871841547
+            },
+            {
+              "title": "Running Time of Algorithms",
+              "name": "runningtime",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9662404438130032
+            },
+            {
+              "title": "Quicksort 1 - Partition",
+              "name": "quicksort1",
+              "difficulty": "Easy",
+              "point": 10,
+              "rate": 0.9571217430293771
+            },
+            {
+              "title": "Counting Sort 1",
+              "name": "countingsort1",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9605234882021747
+            },
+            {
+              "title": "Counting Sort 2",
+              "name": "countingsort2",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9650917202591424
+            },
+            {
+              "title": "The Full Counting Sort",
+              "name": "countingsort4",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.8354486482130625
+            },
+            {
+              "title": "Closest Numbers",
+              "name": "closest-numbers",
+              "difficulty": "Easy",
+              "point": 35,
+              "rate": 0.8759531706210846
+            },
+            {
+              "title": "Find the Median",
+              "name": "find-the-median",
+              "difficulty": "Easy",
+              "point": 35,
+              "rate": 0.8726589735967354
+            },
+            {
+              "title": "Insertion Sort Advanced Analysis",
+              "name": "insertion-sort",
+              "difficulty": "Advanced",
+              "point": 50,
+              "rate": 0.36
+            },
+            {
+              "title": "Fraudulent Activity Notifications",
+              "name": "fraudulent-activity-notifications",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.38612399831294814
+            },
+            {
+              "title": "Lily's Homework",
+              "name": "lilys-homework",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.4717307301199919
+            }
+          ]
+        },
+        {
+          "title": "Search",
+          "name": "search",
+          "challenges": [
+            {
+              "title": "Hackerland Radio Transmitters",
+              "name": "hackerland-radio-transmitters",
+              "difficulty": "Medium",
+              "point": 25,
+              "rate": 0.6171811645131643
+            },
+            {
+              "title": "Gridland Metro",
+              "name": "gridland-metro",
+              "difficulty": "Medium",
+              "point": 25,
+              "rate": 0.42825328483408803
+            },
+            {
+              "title": "Ice Cream Parlor",
+              "name": "icecream-parlor",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.9233111758734732
+            },
+            {
+              "title": "KnightL on a Chessboard",
+              "name": "knightl-on-chessboard",
+              "difficulty": "Medium",
+              "point": 35,
+              "rate": 0.8720744680851064
+            },
+            {
+              "title": "Minimum Loss",
+              "name": "minimum-loss",
+              "difficulty": "Medium",
+              "point": 35,
+              "rate": 0.6084017382906808
+            },
+            {
+              "title": "Missing Numbers",
+              "name": "missing-numbers",
+              "difficulty": "Easy",
+              "point": 45,
+              "rate": 0.8453501647961053
+            },
+            {
+              "title": "Pairs",
+              "name": "pairs",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.7366746905089409
+            },
+            {
+              "title": "Sherlock and Array",
+              "name": "sherlock-and-array",
+              "difficulty": "Easy",
+              "point": 40,
+              "rate": 0.7964696772376896
+            },
+            {
+              "title": "Maximum Subarray Sum",
+              "name": "maximum-subarray-sum",
+              "difficulty": "Hard",
+              "point": 65,
+              "rate": 0.27123528549797293
+            },
+            {
+              "title": "Connected Cells in a Grid",
+              "name": "connected-cell-in-a-grid",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.8755387002240993
+            },
+            {
+              "title": "Short Palindrome",
+              "name": "short-palindrome",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.5691581822696796
+            },
+            {
+              "title": "Maximizing Mission Points",
+              "name": "maximizing-mission-points",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.4332096474953618
+            },
+            {
+              "title": "Count Luck",
+              "name": "count-luck",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.8440464895635673
+            },
+            {
+              "title": "Cut the Tree",
+              "name": "cut-the-tree",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.70403825717322
+            },
+            {
+              "title": "Making Candies",
+              "name": "making-candies",
+              "difficulty": "Hard",
+              "point": 45,
+              "rate": 0.29907558455682437
+            },
+            {
+              "title": "Gena Playing Hanoi",
+              "name": "gena",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.5616717635066258
+            },
+            {
+              "title": "Beautiful Quadruples",
+              "name": "xor-quadruples",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.3557230980123372
+            },
+            {
+              "title": "Red Knight's Shortest Path",
+              "name": "red-knights-shortest-path",
+              "difficulty": "Medium",
+              "point": 60,
+              "rate": 0.7838827838827839
+            },
+            {
+              "title": "Bike Racers",
+              "name": "bike-racers",
+              "difficulty": "Hard",
+              "point": 65,
+              "rate": 0.3354876615746181
+            },
+            {
+              "title": "Task Scheduling ",
+              "name": "task-scheduling",
+              "difficulty": "Advanced",
+              "point": 70,
+              "rate": 0.3591890700749229
+            },
+            {
+              "title": "Similar Pair",
+              "name": "similarpair",
+              "difficulty": "Advanced",
+              "point": 70,
+              "rate": 0.3399243966269264
+            },
+            {
+              "title": "Absolute Element Sums",
+              "name": "playing-with-numbers",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.23559479553903345
+            },
+            {
+              "title": "Almost Integer Rock Garden",
+              "name": "almost-integer-rock-garden",
+              "difficulty": "Expert",
+              "point": 80,
+              "rate": 0.375
+            },
+            {
+              "title": "Sorted Subsegments",
+              "name": "sorted-subsegments",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.081374321880651
+            },
+            {
+              "title": "Distant Pairs",
+              "name": "distant-pairs",
+              "difficulty": "Expert",
+              "point": 80,
+              "rate": 0.17578125
+            },
+            {
+              "title": "King Richard's Knights",
+              "name": "king-richards-knights",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.3242424242424242
+            }
+          ]
+        },
+        {
+          "title": "Graph Theory",
+          "name": "graph-theory",
+          "challenges": [
+            {
+              "title": "Frog in Maze",
+              "name": "frog-in-maze",
+              "difficulty": "Hard",
+              "point": 65,
+              "rate": 0.30183727034120733
+            },
+            {
+              "title": "Roads and Libraries",
+              "name": "torque-and-development",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.645985580460052
+            },
+            {
+              "title": "Journey to the Moon",
+              "name": "journey-to-the-moon",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.6252376968129612
+            },
+            {
+              "title": "Synchronous Shopping",
+              "name": "synchronous-shopping",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.47309833024118736
+            },
+            {
+              "title": "Subset Component",
+              "name": "subset-component",
+              "difficulty": "Hard",
+              "point": 50,
+              "rate": 0.5308310991957105
+            },
+            {
+              "title": "Breadth First Search: Shortest Reach",
+              "name": "bfsshortreach",
+              "difficulty": "Medium",
+              "point": 55,
+              "rate": 0.7758515144837043
+            },
+            {
+              "title": "Kruskal (MST): Really Special Subtree",
+              "name": "kruskalmstrsub",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.8238595936437663
+            },
+            {
+              "title": "Even Tree",
+              "name": "even-tree",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.8898241070465092
+            },
+            {
+              "title": "Snakes and Ladders: The Quickest Way Up",
+              "name": "the-quickest-way-up",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.7606689334536119
+            },
+            {
+              "title": "Dijkstra: Shortest Reach 2",
+              "name": "dijkstrashortreach",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.5863163168735734
+            },
+            {
+              "title": "The Story of a Tree",
+              "name": "the-story-of-a-tree",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.46649703138252757
+            },
+            {
+              "title": "Prim's (MST) : Special Subtree",
+              "name": "primsmstsub",
+              "difficulty": "Medium",
+              "point": 60,
+              "rate": 0.8161573472041612
+            },
+            {
+              "title": "Toll Cost Digits",
+              "name": "toll-cost-digits",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.4470588235294118
+            },
+            {
+              "title": "Real Estate Broker",
+              "name": "real-estate-broker",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.45107794361525705
+            },
+            {
+              "title": "Clique",
+              "name": "clique",
+              "difficulty": "Medium",
+              "point": 60,
+              "rate": 0.5635505750516072
+            },
+            {
+              "title": "Minimum Penalty Path",
+              "name": "beautiful-path",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.44410876132930516
+            },
+            {
+              "title": "Demanding Money",
+              "name": "borrowing-money",
+              "difficulty": "Hard",
+              "point": 50,
+              "rate": 0.339662447257384
+            },
+            {
+              "title": "The Value of Friendship",
+              "name": "value-of-friendship",
+              "difficulty": "Hard",
+              "point": 55,
+              "rate": 0.4162062615101289
+            },
+            {
+              "title": "Coprime Paths",
+              "name": "coprime-paths",
+              "difficulty": "Expert",
+              "point": 80,
+              "rate": 0.31382978723404253
+            },
+            {
+              "title": "Minimum MST Graph",
+              "name": "minimum-mst-graph",
+              "difficulty": "Expert",
+              "point": 80,
+              "rate": 0.34317343173431736
+            },
+            {
+              "title": "Jack goes to Rapture ",
+              "name": "jack-goes-to-rapture",
+              "difficulty": "Medium",
+              "point": 80,
+              "rate": 0.5697819314641744
+            },
+            {
+              "title": "Crab Graphs",
+              "name": "crab-graphs",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.6584507042253521
+            },
+            {
+              "title": "Bead Ornaments",
+              "name": "beadornaments",
+              "difficulty": "Advanced",
+              "point": 70,
+              "rate": 0.7597402597402597
+            },
+            {
+              "title": "Jeanie's Route",
+              "name": "jeanies-route",
+              "difficulty": "Medium",
+              "point": 80,
+              "rate": 0.6198547215496368
+            },
+            {
+              "title": "Floyd : City of Blinding Lights",
+              "name": "floyd-city-of-blinding-lights",
+              "difficulty": "Hard",
+              "point": 75,
+              "rate": 0.8068564432200795
+            },
+            {
+              "title": "Roads in HackerLand",
+              "name": "johnland",
+              "difficulty": "Medium",
+              "point": 60,
+              "rate": 0.3634881825590872
+            },
+            {
+              "title": "Kingdom Connectivity",
+              "name": "kingdom-connectivity",
+              "difficulty": "Hard",
+              "point": 75,
+              "rate": 0.4913227921326649
+            },
+            {
+              "title": "Computer Game",
+              "name": "computer-game",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.15252525252525254
+            },
+            {
+              "title": "Rust & Murderer",
+              "name": "rust-murderer",
+              "difficulty": "Medium",
+              "point": 70,
+              "rate": 0.5098039215686274
+            },
+            {
+              "title": "Problem solving",
+              "name": "problem-solving",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.4126149802890933
+            },
+            {
+              "title": "Journey Scheduling",
+              "name": "journey-scheduling",
+              "difficulty": "Hard",
+              "point": 75,
+              "rate": 0.520618556701031
+            },
+            {
+              "title": "Matrix",
+              "name": "matrix",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.6007905138339921
+            },
+            {
+              "title": "Recording Episodes",
+              "name": "episode-recording",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.39779005524861877
+            },
+            {
+              "title": "Repair Roads",
+              "name": "repair-roads",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.3853904282115869
+            },
+            {
+              "title": "Kth Ancestor",
+              "name": "kth-ancestor",
+              "difficulty": "Hard",
+              "point": 90,
+              "rate": 0.46810035842293907
+            },
+            {
+              "title": "ByteLandian Tours",
+              "name": "bytelandian-tours",
+              "difficulty": "Hard",
+              "point": 90,
+              "rate": 0.534923339011925
+            },
+            {
+              "title": "Find the Path",
+              "name": "shortest-path",
+              "difficulty": "Hard",
+              "point": 75,
+              "rate": 0.2082018927444795
+            },
+            {
+              "title": "Savita And Friends",
+              "name": "savita-and-friends",
+              "difficulty": "Hard",
+              "point": 90,
+              "rate": 0.6443148688046647
+            },
+            {
+              "title": "Liars",
+              "name": "liars",
+              "difficulty": "Advanced",
+              "point": 85,
+              "rate": 0.47549909255898365
+            },
+            {
+              "title": "Jumping Rooks",
+              "name": "jumping-rooks",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.3836477987421384
+            },
+            {
+              "title": "Tripartite Matching",
+              "name": "tripartite-matching",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.3654618473895582
+            },
+            {
+              "title": "Tree Flow",
+              "name": "tree-flow",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.2375
+            },
+            {
+              "title": "DAG Queries",
+              "name": "dag-queries",
+              "difficulty": "Expert",
+              "point": 80,
+              "rate": 0.12834224598930483
+            },
+            {
+              "title": "Favorite sequence",
+              "name": "favourite-sequence",
+              "difficulty": "Advanced",
+              "point": 95,
+              "rate": 0.3915470494417863
+            },
+            {
+              "title": "Jogging Cats",
+              "name": "cat-jogging",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.29739776951672864
+            },
+            {
+              "title": "Quadrant Queries",
+              "name": "quadrant-queries",
+              "difficulty": "Advanced",
+              "point": 100,
+              "rate": 0.26888341543513955
+            },
+            {
+              "title": "Hacker Country",
+              "name": "hacker-country",
+              "difficulty": "Hard",
+              "point": 100,
+              "rate": 0.36153846153846153
+            },
+            {
+              "title": "HackerX",
+              "name": "missile-defend",
+              "difficulty": "Hard",
+              "point": 100,
+              "rate": 0.32286995515695066
+            },
+            {
+              "title": "Huarongdao",
+              "name": "huarongdao",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.15789473684210525
+            },
+            {
+              "title": "Training the army",
+              "name": "training-the-army",
+              "difficulty": "Hard",
+              "point": 120,
+              "rate": 0.5050761421319797
+            },
+            {
+              "title": "Jim and his LAN Party",
+              "name": "jim-and-his-lan-party",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.47671840354767187
+            },
+            {
+              "title": "Travel in HackerLand",
+              "name": "travel-in-hackerland",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.48066298342541436
+            },
+            {
+              "title": "Alex vs Fedor",
+              "name": "alex-vs-fedor",
+              "difficulty": "Expert",
+              "point": 150,
+              "rate": 0.5738161559888579
+            },
+            {
+              "title": "Vertical Paths",
+              "name": "vertical-paths",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.635036496350365
+            },
+            {
+              "title": "Drive",
+              "name": "drive",
+              "difficulty": "Expert",
+              "point": 90,
+              "rate": 0.3010752688172043
+            },
+            {
+              "title": "Travelling Salesman in a Grid",
+              "name": "tsp-grid",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.17257683215130024
+            },
+            {
+              "title": "Road Network",
+              "name": "road-network",
+              "difficulty": "Expert",
+              "point": 90,
+              "rate": 0.5751295336787565
+            },
+            {
+              "title": "Going to the Office",
+              "name": "going-office",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.19655521783181357
+            },
+            {
+              "title": "Tree Splitting",
+              "name": "tree-splitting",
+              "difficulty": "Advanced",
+              "point": 100,
+              "rate": 0.40654205607476634
+            },
+            {
+              "title": "Ticket",
+              "name": "ticket",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.3622222222222222
+            },
+            {
+              "title": "DFS Edges",
+              "name": "dfs-edges",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.6511627906976745
+            },
+            {
+              "title": "Diameter Minimization",
+              "name": "diameter-minimization",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.5185185185185185
+            },
+            {
+              "title": "Airports",
+              "name": "airports",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.7571428571428571
+            },
+            {
+              "title": "Definite Random Walks",
+              "name": "definite-random-walks",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.6538461538461539
+            }
+          ]
+        },
+        {
+          "title": "Greedy",
+          "name": "greedy",
+          "challenges": [
+            {
+              "title": "Minimum Absolute Difference in an Array",
+              "name": "minimum-absolute-difference-in-an-array",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.8354841887498768
+            },
+            {
+              "title": "Marc's Cakewalk",
+              "name": "marcs-cakewalk",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.9498145400593472
+            },
+            {
+              "title": "Grid Challenge",
+              "name": "grid-challenge",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.8150947830173899
+            },
+            {
+              "title": "Luck Balance",
+              "name": "luck-balance",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9132494343891403
+            },
+            {
+              "title": "Maximum Perimeter Triangle",
+              "name": "maximum-perimeter-triangle",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.8981433728726147
+            },
+            {
+              "title": "Candies",
+              "name": "candies",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.6656824483927287
+            },
+            {
+              "title": "Beautiful Pairs",
+              "name": "beautiful-pairs",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.7508243472061313
+            },
+            {
+              "title": "Sherlock and The Beast",
+              "name": "sherlock-and-the-beast",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.8174291506585196
+            },
+            {
+              "title": "Priyanka and Toys",
+              "name": "priyanka-and-toys",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.8858438858438858
+            },
+            {
+              "title": "Largest Permutation",
+              "name": "largest-permutation",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.620397852857594
+            },
+            {
+              "title": "Mark and Toys",
+              "name": "mark-and-toys",
+              "difficulty": "Easy",
+              "point": 35,
+              "rate": 0.9185582764918558
+            },
+            {
+              "title": "Greedy Florist",
+              "name": "greedy-florist",
+              "difficulty": "Medium",
+              "point": 35,
+              "rate": 0.9307906173239399
+            },
+            {
+              "title": "Max Min",
+              "name": "angry-children",
+              "difficulty": "Medium",
+              "point": 35,
+              "rate": 0.832691149909693
+            },
+            {
+              "title": "Jim and the Orders",
+              "name": "jim-and-the-orders",
+              "difficulty": "Easy",
+              "point": 40,
+              "rate": 0.8853827160493827
+            },
+            {
+              "title": "Permuting Two Arrays",
+              "name": "two-arrays",
+              "difficulty": "Easy",
+              "point": 40,
+              "rate": 0.9300103100959632
+            },
+            {
+              "title": "Cutting Boards",
+              "name": "board-cutting",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.7447405329593267
+            },
+            {
+              "title": "Reverse Shuffle Merge",
+              "name": "reverse-shuffle-merge",
+              "difficulty": "Advanced",
+              "point": 50,
+              "rate": 0.35707762557077627
+            },
+            {
+              "title": "Goodland Electricity",
+              "name": "pylons",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.6027288906466285
+            },
+            {
+              "title": "Cloudy Day ",
+              "name": "cloudy-day",
+              "difficulty": "Medium",
+              "point": 45,
+              "rate": 0.2665121668597914
+            },
+            {
+              "title": "Chief Hopper",
+              "name": "chief-hopper",
+              "difficulty": "Hard",
+              "point": 65,
+              "rate": 0.7219387755102041
+            },
+            {
+              "title": "Sherlock and MiniMax",
+              "name": "sherlock-and-minimax",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.5042839657282742
+            },
+            {
+              "title": "Accessory Collection",
+              "name": "accessory-collection",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.21686746987951808
+            },
+            {
+              "title": "Team Formation",
+              "name": "team-formation",
+              "difficulty": "Advanced",
+              "point": 70,
+              "rate": 0.3185441020191286
+            },
+            {
+              "title": "Fighting Pits",
+              "name": "fighting-pits",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.39798850574712646
+            }
+          ]
+        },
+        {
+          "title": "Dynamic Programming",
+          "name": "dynamic-programming",
+          "challenges": [
+            {
+              "title": "The Coin Change Problem",
+              "name": "coin-change",
+              "difficulty": "Medium",
+              "point": 60,
+              "rate": 0.7671712628939965
+            },
+            {
+              "title": "Equal",
+              "name": "equal",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.471639147872285
+            },
+            {
+              "title": "Sherlock and Cost",
+              "name": "sherlock-and-cost",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.6204647853924591
+            },
+            {
+              "title": "Construct the Array",
+              "name": "construct-the-array",
+              "difficulty": "Medium",
+              "point": 35,
+              "rate": 0.5649202733485194
+            },
+            {
+              "title": "Kingdom Division",
+              "name": "kingdom-division",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.4752763234438627
+            },
+            {
+              "title": "Sam and substrings",
+              "name": "sam-and-substrings",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.5647397530115917
+            },
+            {
+              "title": "Fibonacci Modified",
+              "name": "fibonacci-modified",
+              "difficulty": "Medium",
+              "point": 45,
+              "rate": 0.7999321804001356
+            },
+            {
+              "title": "Abbreviation",
+              "name": "abbr",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.37201814722669396
+            },
+            {
+              "title": "Prime XOR",
+              "name": "prime-xor",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.5041854475209272
+            },
+            {
+              "title": "Decibinary Numbers",
+              "name": "decibinary-numbers",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.3592105263157895
+            },
+            {
+              "title": "Fair Cut",
+              "name": "fair-cut",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.4535623409669211
+            },
+            {
+              "title": "The Maximum Subarray",
+              "name": "maxsubarray",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.7486662608757921
+            },
+            {
+              "title": "Angry Children 2",
+              "name": "angry-children-2",
+              "difficulty": "Hard",
+              "point": 50,
+              "rate": 0.4474101479915433
+            },
+            {
+              "title": "Sherlock's Array Merging Algorithm",
+              "name": "sherlocks-array-merging-algorithm",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.4681647940074906
+            },
+            {
+              "title": "Prime Digit Sums",
+              "name": "prime-digit-sums",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.3483606557377049
+            },
+            {
+              "title": "HackerRank City",
+              "name": "hr-city",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.6717557251908397
+            },
+            {
+              "title": "Summing Pieces",
+              "name": "summing-pieces",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.4595959595959596
+            },
+            {
+              "title": "Mr K marsh",
+              "name": "mr-k-marsh",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.45549886621315194
+            },
+            {
+              "title": "Substring Diff",
+              "name": "substring-diff",
+              "difficulty": "Medium",
+              "point": 60,
+              "rate": 0.6414409382853952
+            },
+            {
+              "title": "Xor and Sum",
+              "name": "xor-and-sum",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.7665505226480837
+            },
+            {
+              "title": "Lego Blocks",
+              "name": "lego-blocks",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.7492566897918731
+            },
+            {
+              "title": "Brick Tiling",
+              "name": "brick-tiling",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.5911949685534591
+            },
+            {
+              "title": "Alien Languages",
+              "name": "alien-languages",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.48988439306358383
+            },
+            {
+              "title": "Stock Maximize",
+              "name": "stockmax",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.8259110917238371
+            },
+            {
+              "title": "Two Robots",
+              "name": "two-robots",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.372507869884575
+            },
+            {
+              "title": "Cut Tree",
+              "name": "cuttree",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.5823643410852714
+            },
+            {
+              "title": "Tara's Beautiful Permutations",
+              "name": "taras-beautiful-permutations",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.56353591160221
+            },
+            {
+              "title": "Wet Shark and Two Subsequences",
+              "name": "wet-shark-and-two-subsequences",
+              "difficulty": "Medium",
+              "point": 80,
+              "rate": 0.44857389801210024
+            },
+            {
+              "title": "Nikita and the Game",
+              "name": "array-splitting",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.5903187721369539
+            },
+            {
+              "title": "Choosing White Balls",
+              "name": "choosing-white-balls",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.24022346368715083
+            },
+            {
+              "title": "Mandragora Forest",
+              "name": "mandragora",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.6959507042253521
+            },
+            {
+              "title": "Red John is Back",
+              "name": "red-john-is-back",
+              "difficulty": "Medium",
+              "point": 65,
+              "rate": 0.7973955178679588
+            },
+            {
+              "title": "LCS Returns",
+              "name": "tutzki-and-lcs",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.3329015544041451
+            },
+            {
+              "title": "Grid Walking",
+              "name": "grid-walking",
+              "difficulty": "Medium",
+              "point": 55,
+              "rate": 0.4533678756476684
+            },
+            {
+              "title": "Matrix Land",
+              "name": "matrix-land",
+              "difficulty": "Hard",
+              "point": 55,
+              "rate": 0.43859649122807015
+            },
+            {
+              "title": "Knapsack",
+              "name": "unbounded-knapsack",
+              "difficulty": "Medium",
+              "point": 60,
+              "rate": 0.7913560779816514
+            },
+            {
+              "title": "Bricks Game",
+              "name": "play-game",
+              "difficulty": "Medium",
+              "point": 55,
+              "rate": 0.7926812104152006
+            },
+            {
+              "title": "The Longest Increasing Subsequence",
+              "name": "longest-increasing-subsequent",
+              "difficulty": "Advanced",
+              "point": 60,
+              "rate": 0.39159925326695705
+            },
+            {
+              "title": "Coin on the Table",
+              "name": "coin-on-the-table",
+              "difficulty": "Medium",
+              "point": 65,
+              "rate": 0.6661926768574475
+            },
+            {
+              "title": "The Longest Common Subsequence",
+              "name": "dynamic-programming-classics-the-longest-common-subsequence",
+              "difficulty": "Medium",
+              "point": 55,
+              "rate": 0.3942237609329446
+            },
+            {
+              "title": "Play with words",
+              "name": "strplay",
+              "difficulty": "Medium",
+              "point": 65,
+              "rate": 0.6736363636363636
+            },
+            {
+              "title": "Black and White Tree",
+              "name": "black-n-white-tree-1",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.2849462365591398
+            },
+            {
+              "title": "Counting Special Sub-Cubes",
+              "name": "counting-special-sub-cubes",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.5686900958466453
+            },
+            {
+              "title": "Interval Selection",
+              "name": "interval-selection",
+              "difficulty": "Medium",
+              "point": 65,
+              "rate": 0.595552466990966
+            },
+            {
+              "title": "String Reduction",
+              "name": "string-reduction",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.5966327604349351
+            },
+            {
+              "title": "Far Vertices",
+              "name": "far-vertices",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.5265423242467718
+            },
+            {
+              "title": "Counting Road Networks",
+              "name": "counting-road-networks",
+              "difficulty": "Expert",
+              "point": 90,
+              "rate": 0.3220338983050847
+            },
+            {
+              "title": "Superman Celebrates Diwali ",
+              "name": "superman-celebrates-diwali",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.6736938588450962
+            },
+            {
+              "title": "Hexagonal Grid",
+              "name": "hexagonal-grid",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.7805555555555556
+            },
+            {
+              "title": "Queens on Board",
+              "name": "queens-on-board",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.47751937984496123
+            },
+            {
+              "title": "Shashank and the Palindromic Strings",
+              "name": "shashank-and-palindromic-strings",
+              "difficulty": "Advanced",
+              "point": 60,
+              "rate": 0.5234899328859061
+            },
+            {
+              "title": "Points in a Plane",
+              "name": "points-in-a-plane",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.39285714285714285
+            },
+            {
+              "title": "Turn Off the Lights",
+              "name": "turn-off-the-lights",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.5172413793103449
+            },
+            {
+              "title": "Animal Transport",
+              "name": "animal-transport",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.676923076923077
+            },
+            {
+              "title": "The Indian Job",
+              "name": "the-indian-job",
+              "difficulty": "Medium",
+              "point": 70,
+              "rate": 0.49678800856531047
+            },
+            {
+              "title": "Requirement",
+              "name": "requirement",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.35111876075731496
+            },
+            {
+              "title": "A Super Hero",
+              "name": "a-super-hero",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.38064516129032255
+            },
+            {
+              "title": "Clues on a Binary Path",
+              "name": "clues-on-a-binary-path",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.25
+            },
+            {
+              "title": "Road Maintenance",
+              "name": "road-maintenance",
+              "difficulty": "Hard",
+              "point": 100,
+              "rate": 0.34
+            },
+            {
+              "title": "Billboards",
+              "name": "billboards",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.3375541486171276
+            },
+            {
+              "title": "Beautiful Strings",
+              "name": "beautiful-string",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.21144967682363805
+            },
+            {
+              "title": "Covering the stains",
+              "name": "covering-the-stains",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.6695501730103807
+            },
+            {
+              "title": "GCD Matrix",
+              "name": "gcd-matrix",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.2602739726027397
+            },
+            {
+              "title": "Fairy Chess",
+              "name": "fairy-chess",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.42492492492492495
+            },
+            {
+              "title": "Suffix Rotation",
+              "name": "suffix-rotation",
+              "difficulty": "Expert",
+              "point": 80,
+              "rate": 0.2524271844660194
+            },
+            {
+              "title": "New Year Present",
+              "name": "newyear-present",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.18771331058020477
+            },
+            {
+              "title": "Travel around the world",
+              "name": "travel-around-the-world",
+              "difficulty": "Medium",
+              "point": 120,
+              "rate": 0.39144736842105265
+            },
+            {
+              "title": "Longest Palindromic Subsequence",
+              "name": "longest-palindromic-subsequence",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.15228426395939088
+            },
+            {
+              "title": "Candles Counting",
+              "name": "candles-2",
+              "difficulty": "Medium",
+              "point": 85,
+              "rate": 0.39949748743718594
+            },
+            {
+              "title": "Hyper Strings",
+              "name": "hyper-strings",
+              "difficulty": "Advanced",
+              "point": 90,
+              "rate": 0.31387414708112205
+            },
+            {
+              "title": "Swap Permutation",
+              "name": "swappermutation",
+              "difficulty": "Medium",
+              "point": 85,
+              "rate": 0.4881889763779528
+            },
+            {
+              "title": "Extremum Permutations",
+              "name": "extremum-permutations",
+              "difficulty": "Medium",
+              "point": 100,
+              "rate": 0.512987012987013
+            },
+            {
+              "title": "Square Subsequences",
+              "name": "square-subsequences",
+              "difficulty": "Hard",
+              "point": 90,
+              "rate": 0.5241976566479878
+            },
+            {
+              "title": "Dorsey Thief",
+              "name": "dorsey-thief",
+              "difficulty": "Advanced",
+              "point": 85,
+              "rate": 0.3505494505494505
+            },
+            {
+              "title": "Mining",
+              "name": "mining",
+              "difficulty": "Advanced",
+              "point": 75,
+              "rate": 0.30303030303030304
+            },
+            {
+              "title": "Police Operation",
+              "name": "police-operation",
+              "difficulty": "Hard",
+              "point": 100,
+              "rate": 0.37393162393162394
+            },
+            {
+              "title": "Zurikela's Graph",
+              "name": "zurikela",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.689922480620155
+            },
+            {
+              "title": "Modify The Sequence",
+              "name": "modify-the-sequence",
+              "difficulty": "Advanced",
+              "point": 100,
+              "rate": 0.15890236119974474
+            },
+            {
+              "title": "Longest Mod Path",
+              "name": "longest-mod-path",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.5461538461538461
+            },
+            {
+              "title": "P-sequences",
+              "name": "p-sequences",
+              "difficulty": "Hard",
+              "point": 100,
+              "rate": 0.48265895953757226
+            },
+            {
+              "title": "Robot",
+              "name": "robot",
+              "difficulty": "Advanced",
+              "point": 120,
+              "rate": 0.26789366053169733
+            },
+            {
+              "title": "Lucky Numbers",
+              "name": "lucky-numbers",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.16620370370370371
+            },
+            {
+              "title": "Unfair Game",
+              "name": "unfair-game",
+              "difficulty": "Advanced",
+              "point": 100,
+              "rate": 0.3031496062992126
+            },
+            {
+              "title": "Oil Well",
+              "name": "oil-well",
+              "difficulty": "Hard",
+              "point": 100,
+              "rate": 0.3384146341463415
+            },
+            {
+              "title": "Find the Seed",
+              "name": "find-the-seed",
+              "difficulty": "Advanced",
+              "point": 100,
+              "rate": 0.23789473684210527
+            },
+            {
+              "title": "The Blacklist",
+              "name": "the-blacklist",
+              "difficulty": "Advanced",
+              "point": 100,
+              "rate": 0.43422913719943423
+            },
+            {
+              "title": "Tree Pruning",
+              "name": "tree-pruning",
+              "difficulty": "Advanced",
+              "point": 100,
+              "rate": 0.4230769230769231
+            },
+            {
+              "title": "Ones and Twos",
+              "name": "ones-and-twos",
+              "difficulty": "Hard",
+              "point": 100,
+              "rate": 0.21764705882352942
+            },
+            {
+              "title": "Count Scorecards",
+              "name": "count-scorecards",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.23617339312406577
+            },
+            {
+              "title": "Vim War",
+              "name": "vim-war",
+              "difficulty": "Advanced",
+              "point": 120,
+              "rate": 0.4151436031331593
+            },
+            {
+              "title": "Best spot",
+              "name": "best-spot",
+              "difficulty": "Advanced",
+              "point": 100,
+              "rate": 0.24130434782608695
+            },
+            {
+              "title": "Divisible Numbers",
+              "name": "divisible-numbers",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.05743740795287187
+            },
+            {
+              "title": "Unique Divide And Conquer       ",
+              "name": "unique-divide-and-conquer",
+              "difficulty": "Advanced",
+              "point": 90,
+              "rate": 0.4025974025974026
+            },
+            {
+              "title": "King and Four Sons",
+              "name": "happy-king",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.3333333333333333
+            },
+            {
+              "title": "Dortmund Dilemma",
+              "name": "dortmund-dilemma",
+              "difficulty": "Advanced",
+              "point": 150,
+              "rate": 0.7540983606557377
+            },
+            {
+              "title": "Super Kth LIS",
+              "name": "super-kth-lis",
+              "difficulty": "Advanced",
+              "point": 90,
+              "rate": 0.24806201550387597
+            },
+            {
+              "title": "Counting the Ways",
+              "name": "count-ways-1",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.24571428571428572
+            },
+            {
+              "title": "Hard Disk Drives",
+              "name": "hard-drive-disks",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.3741935483870968
+            },
+            {
+              "title": "Separate the chocolate",
+              "name": "separate-the-chocolate",
+              "difficulty": "Expert",
+              "point": 250,
+              "rate": 0.561377245508982
+            }
+          ]
+        },
+        {
+          "title": "Constructive Algorithms",
+          "name": "constructive-algorithms",
+          "challenges": [
+            {
+              "title": "Lena Sort",
+              "name": "lena-sort",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.3903002309468822
+            },
+            {
+              "title": "Flipping the Matrix",
+              "name": "flipping-the-matrix",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.8854364591483179
+            },
+            {
+              "title": "Gaming Array",
+              "name": "an-interesting-game-1",
+              "difficulty": "Medium",
+              "point": 35,
+              "rate": 0.7623163353500432
+            },
+            {
+              "title": "New Year Chaos",
+              "name": "new-year-chaos",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.5849533686351394
+            },
+            {
+              "title": "Bonetrousle",
+              "name": "bonetrousle",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.4666827619507484
+            },
+            {
+              "title": "Yet Another KMP Problem",
+              "name": "kmp-problem",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.5651438240270727
+            },
+            {
+              "title": "Beautiful 3 Set",
+              "name": "beautiful-3-set",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.4592
+            },
+            {
+              "title": "Inverse RMQ",
+              "name": "inverse-rmq",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.5461538461538461
+            },
+            {
+              "title": "Two Subarrays",
+              "name": "two-subarrays",
+              "difficulty": "Expert",
+              "point": 70,
+              "rate": 0.15822784810126583
+            },
+            {
+              "title": "Lovely Triplets",
+              "name": "lovely-triplets",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.6445396145610278
+            },
+            {
+              "title": "Array Construction",
+              "name": "array-construction",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.5067796610169492
+            }
+          ]
+        },
+        {
+          "title": "Bit Manipulation",
+          "name": "bit-manipulation",
+          "challenges": [
+            {
+              "title": "Lonely Integer",
+              "name": "lonely-integer",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.9618614582439685
+            },
+            {
+              "title": "Maximizing XOR",
+              "name": "maximizing-xor",
+              "difficulty": "Easy",
+              "point": 30,
+              "rate": 0.966876589560373
+            },
+            {
+              "title": "Counter game",
+              "name": "counter-game",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.6588126231217892
+            },
+            {
+              "title": "Xor-sequence",
+              "name": "xor-se",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.5307743216412971
+            },
+            {
+              "title": "Sum vs XOR",
+              "name": "sum-vs-xor",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.6890702042733036
+            },
+            {
+              "title": "The Great XOR",
+              "name": "the-great-xor",
+              "difficulty": "Medium",
+              "point": 25,
+              "rate": 0.7092198581560284
+            },
+            {
+              "title": "Flipping bits",
+              "name": "flipping-bits",
+              "difficulty": "Easy",
+              "point": 40,
+              "rate": 0.9504304972290936
+            },
+            {
+              "title": "Yet Another Minimax Problem",
+              "name": "yet-another-minimax-problem",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.38095238095238093
+            },
+            {
+              "title": "Sansa and XOR",
+              "name": "sansa-and-xor",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.8130132659507264
+            },
+            {
+              "title": "AND Product",
+              "name": "and-product",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.5252934898612593
+            },
+            {
+              "title": "Winning Lottery Ticket",
+              "name": "winning-lottery-ticket",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.4260027662517289
+            },
+            {
+              "title": "Xoring Ninja",
+              "name": "xoring-ninja",
+              "difficulty": "Hard",
+              "point": 55,
+              "rate": 0.5556565197637438
+            },
+            {
+              "title": "Cipher",
+              "name": "cipher",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.7494100991033507
+            },
+            {
+              "title": "XOR Matrix",
+              "name": "xor-matrix",
+              "difficulty": "Hard",
+              "point": 50,
+              "rate": 0.27949709864603484
+            },
+            {
+              "title": "What's Next?",
+              "name": "whats-next",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.44055555555555553
+            },
+            {
+              "title": "String Transmission",
+              "name": "string-transmission",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.5352250489236791
+            },
+            {
+              "title": "A or B",
+              "name": "aorb",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.6583400483481063
+            },
+            {
+              "title": "Manipulative Numbers",
+              "name": "manipulative-numbers",
+              "difficulty": "Hard",
+              "point": 55,
+              "rate": 0.43486714193130266
+            },
+            {
+              "title": "Stone Game",
+              "name": "stonegame",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.4005235602094241
+            },
+            {
+              "title": "2's complement",
+              "name": "2s-complement",
+              "difficulty": "Advanced",
+              "point": 70,
+              "rate": 0.39066400399400897
+            },
+            {
+              "title": "Changing Bits",
+              "name": "changing-bits",
+              "difficulty": "Advanced",
+              "point": 70,
+              "rate": 0.34649277405710255
+            },
+            {
+              "title": "XOR key",
+              "name": "xor-key",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.22838073128264655
+            },
+            {
+              "title": "Maximizing the Function ",
+              "name": "maximizing-the-function",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.2713178294573643
+            },
+            {
+              "title": "XOR Subsequences",
+              "name": "xor-subsequence",
+              "difficulty": "Advanced",
+              "point": 80,
+              "rate": 0.3041825095057034
+            },
+            {
+              "title": "Iterate It",
+              "name": "iterate-it",
+              "difficulty": "Expert",
+              "point": 90,
+              "rate": 0.09698996655518395
+            },
+            {
+              "title": "Hamming Distance",
+              "name": "hamming-distance",
+              "difficulty": "Expert",
+              "point": 150,
+              "rate": 0.38609112709832133
+            },
+            {
+              "title": "Mixing proteins",
+              "name": "pmix",
+              "difficulty": "Hard",
+              "point": 80,
+              "rate": 0.37828371278458844
+            }
+          ]
+        },
+        {
+          "title": "Recursion",
+          "name": "recursion",
+          "challenges": [
+            {
+              "title": "The Power Sum",
+              "name": "the-power-sum",
+              "difficulty": "Medium",
+              "point": 20,
+              "rate": 0.9046127845710309
+            },
+            {
+              "title": "Crossword Puzzle",
+              "name": "crossword-puzzle",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.7989037341555327
+            },
+            {
+              "title": "Recursive Digit Sum",
+              "name": "recursive-digit-sum",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.6937299035369775
+            },
+            {
+              "title": "Simplified Chess Engine",
+              "name": "simplified-chess-engine",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.5481865284974093
+            },
+            {
+              "title": "Password Cracker",
+              "name": "password-cracker",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.4343616302634542
+            },
+            {
+              "title": "Arithmetic Expressions",
+              "name": "arithmetic-expressions",
+              "difficulty": "Hard",
+              "point": 40,
+              "rate": 0.4709965294992563
+            },
+            {
+              "title": " Stone Division, Revisited",
+              "name": "stone-division-2",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.5751544269045985
+            },
+            {
+              "title": "K Factorization",
+              "name": "k-factorization",
+              "difficulty": "Hard",
+              "point": 50,
+              "rate": 0.7722543352601156
+            },
+            {
+              "title": "Bowling Pins",
+              "name": "bowling-pins",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.3738656987295826
+            },
+            {
+              "title": "Simplified Chess Engine II",
+              "name": "simplified-chess-engine-ii",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.659016393442623
+            },
+            {
+              "title": "Repetitive K-Sums",
+              "name": "repeat-k-sums",
+              "difficulty": "Advanced",
+              "point": 150,
+              "rate": 0.5748031496062992
+            }
+          ]
+        },
+        {
+          "title": "Game Theory",
+          "name": "game-theory",
+          "challenges": [
+            {
+              "title": "Game of Stones",
+              "name": "game-of-stones-1",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.8689490669285814
+            },
+            {
+              "title": "Tower Breakers ",
+              "name": "tower-breakers-1",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.8493408662900188
+            },
+            {
+              "title": "A Chessboard Game",
+              "name": "a-chessboard-game-1",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.8866721513780337
+            },
+            {
+              "title": "Introduction to Nim Game",
+              "name": "nim-game-1",
+              "difficulty": "Easy",
+              "point": 15,
+              "rate": 0.7940298507462686
+            },
+            {
+              "title": "Mis\u00e8re Nim",
+              "name": "misere-nim-1",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.7308724832214765
+            },
+            {
+              "title": "Nimble Game",
+              "name": "nimble-game-1",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.6898280802292264
+            },
+            {
+              "title": "Alice and Bob's Silly Game",
+              "name": "alice-and-bobs-silly-game",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.743598615916955
+            },
+            {
+              "title": "Poker Nim",
+              "name": "poker-nim-1",
+              "difficulty": "Easy",
+              "point": 20,
+              "rate": 0.8617305976806423
+            },
+            {
+              "title": "Tower Breakers, Revisited!",
+              "name": "tower-breakers-revisited-1",
+              "difficulty": "Medium",
+              "point": 25,
+              "rate": 0.5819935691318328
+            },
+            {
+              "title": "Tower Breakers, Again!",
+              "name": "tower-breakers-again-1",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.5366218236173393
+            },
+            {
+              "title": "Zero-Move Nim",
+              "name": "zero-move-nim",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.5008375209380235
+            },
+            {
+              "title": "Chessboard Game, Again!",
+              "name": "chessboard-game-again-1",
+              "difficulty": "Medium",
+              "point": 30,
+              "rate": 0.6413043478260869
+            },
+            {
+              "title": "Digits Square Board",
+              "name": "digits-square-board-1",
+              "difficulty": "Medium",
+              "point": 35,
+              "rate": 0.5794871794871795
+            },
+            {
+              "title": "Fun Game",
+              "name": "fun-game-1",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.5177453027139874
+            },
+            {
+              "title": "Stone Division",
+              "name": "stone-division",
+              "difficulty": "Hard",
+              "point": 50,
+              "rate": 0.4637096774193548
+            },
+            {
+              "title": "Chocolate in Box",
+              "name": "chocolate-in-box",
+              "difficulty": "Medium",
+              "point": 70,
+              "rate": 0.7536164255716286
+            },
+            {
+              "title": "Kitty and Katty",
+              "name": "kitty-and-katty",
+              "difficulty": "Medium",
+              "point": 80,
+              "rate": 0.6568730325288562
+            },
+            {
+              "title": "Powers Game",
+              "name": "powers-game-1",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.7005545286506469
+            },
+            {
+              "title": "Deforestation",
+              "name": "deforestation-1",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.49567099567099565
+            },
+            {
+              "title": "Bob and Ben",
+              "name": "bob-and-ben",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.7569060773480663
+            },
+            {
+              "title": "Tower Breakers - The Final Battle",
+              "name": "tower-breakers-the-final-battle-1",
+              "difficulty": "Medium",
+              "point": 50,
+              "rate": 0.4896755162241888
+            },
+            {
+              "title": "Simple Game",
+              "name": "simple-game",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.424390243902439
+            },
+            {
+              "title": "Permutation game",
+              "name": "permutation-game",
+              "difficulty": "Medium",
+              "point": 70,
+              "rate": 0.7159225602528645
+            },
+            {
+              "title": "Move the Coins",
+              "name": "move-the-coins",
+              "difficulty": "Hard",
+              "point": 60,
+              "rate": 0.648936170212766
+            },
+            {
+              "title": "Play on benders",
+              "name": "benders-play",
+              "difficulty": "Medium",
+              "point": 70,
+              "rate": 0.7069306930693069
+            },
+            {
+              "title": "New Year Game",
+              "name": "newyear-game",
+              "difficulty": "Medium",
+              "point": 60,
+              "rate": 0.48089591567852435
+            },
+            {
+              "title": "Stone Piles",
+              "name": "stone-piles",
+              "difficulty": "Hard",
+              "point": 85,
+              "rate": 0.6165865384615384
+            },
+            {
+              "title": "Chocolate Game",
+              "name": "chocolate-game",
+              "difficulty": "Hard",
+              "point": 90,
+              "rate": 0.3333333333333333
+            },
+            {
+              "title": "The Prime Game ",
+              "name": "the-prime-game",
+              "difficulty": "Hard",
+              "point": 90,
+              "rate": 0.6175687666370896
+            },
+            {
+              "title": "Vertical Rooks",
+              "name": "vertical-rooks",
+              "difficulty": "Medium",
+              "point": 90,
+              "rate": 0.6694560669456067
+            },
+            {
+              "title": "A stones game",
+              "name": "half",
+              "difficulty": "Medium",
+              "point": 90,
+              "rate": 0.6753670473083198
+            },
+            {
+              "title": "Tastes Like Winning",
+              "name": "taste-of-win",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.3318777292576419
+            }
+          ]
+        },
+        {
+          "title": "NP Complete",
+          "name": "np-complete-problems",
+          "challenges": [
+            {
+              "title": "Walking the Approximate Longest Path",
+              "name": "walking-the-approximate-longest-path",
+              "difficulty": "Hard",
+              "point": 70,
+              "rate": 0.7314814814814815
+            },
+            {
+              "title": "Sam's Puzzle (Approximate)",
+              "name": "sams-puzzle",
+              "difficulty": "Advanced",
+              "point": 85,
+              "rate": 0.4342105263157895
+            },
+            {
+              "title": "Spies, Revised",
+              "name": "spies-revised",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.028647568287808126
+            },
+            {
+              "title": "TBS Problem",
+              "name": "tbsp",
+              "difficulty": "Expert",
+              "point": 100,
+              "rate": 0.07692307692307693
+            }
+          ]
+        },
+        {
+          "title": "Debugging",
+          "name": "algo-debugging",
+          "challenges": [
+            {
+              "title": "Prime Dates",
+              "name": "prime-date",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.7436342592592593
+            },
+            {
+              "title": "XOR Strings",
+              "name": "strings-xor",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.9171597633136095
+            },
+            {
+              "title": "Smart Number",
+              "name": "smart-number",
+              "difficulty": "Easy",
+              "point": 25,
+              "rate": 0.7882241215574549
+            },
+            {
+              "title": "Minimum Operations",
+              "name": "minimum-operations",
+              "difficulty": "Medium",
+              "point": 45,
+              "rate": 0.43636363636363634
+            },
+            {
+              "title": "Zig Zag Sequence",
+              "name": "zig-zag-sequence",
+              "difficulty": "Medium",
+              "point": 40,
+              "rate": 0.8713414634146341
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
