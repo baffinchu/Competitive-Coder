@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #
 # This script will use challenge.json to generate README.md
 # for the repository. It will compare the challenge list
@@ -15,7 +16,7 @@ import datetime
 def anchor_from_title(title):
   return '-'.join(title.lower().split())
 
-with open(os.path.realpath(os.path.dirname(__file__)) + '/../challenges.json', 'r') as file_challenges, open(os.path.realpath(os.path.dirname(__file__)) + '/../README.md', 'w') as fout:
+with open(os.path.realpath(os.path.dirname(__file__)) + '/../challenges.json', 'r') as file_challenges, open(os.path.realpath(os.path.dirname(__file__)) + '/../README.md', 'w', encoding='utf-8') as fout:
   json_root = json.loads(file_challenges.read())
 
   # count finished challenges and prepare rows
